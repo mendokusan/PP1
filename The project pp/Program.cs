@@ -17,6 +17,7 @@ namespace The_project_pp
             if (true)
             {
                 Console.WriteLine("Erika.");
+                Console.WriteLine("Charmain");
             }
 
             //Put a for loop here... 
