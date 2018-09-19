@@ -10,6 +10,20 @@ namespace The_project_pp
     {
         static void Main(string[] args)
         {
+            // Hello World goes here
+            Console.WriteLine("Hello World");
+
+            // If Statement
+            if (true)
+            {
+
+            }
+
+            //Put a for loop here... 
+            for (int i = 0; i < length; i++)
+            {
+
+            }
         }
     }
 }
