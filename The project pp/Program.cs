@@ -21,7 +21,7 @@ namespace The_project_pp
                 Console.ReadLine();
                 // Okay
                 //comment
-
+                Console.WriteLine("Hi Erika woo");
             }
 
             //Put a for loop here... 
