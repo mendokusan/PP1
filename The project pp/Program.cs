@@ -22,6 +22,7 @@ namespace The_project_pp
                 // Okay
                 //comment
                 Console.WriteLine("Hi Erika woo");
+                Console.WriteLine("HI Charmain!");
             }
 
             //Put a for loop here... 
