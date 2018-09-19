@@ -19,11 +19,12 @@ namespace The_project_pp
                 Console.WriteLine("Erika.");
                 Console.WriteLine("Charmain");
                 Console.ReadLine();
+                // Okay
             }
 
             //Put a for loop here... 
             for (int i = 0; i < length; i++)
-            {
+            {     
 
             }
         }
